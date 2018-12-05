@@ -255,7 +255,7 @@ def broken_5(circle, window):
     window.render()
 
 # -----------------------------------------------------------------------------
-# TODO: 8. Follow the INSTRUCTIONS AT THE TOP OF THIS MODULE
+# DONE: 8. Follow the INSTRUCTIONS AT THE TOP OF THIS MODULE
 #          to correct the mistake(s) in the following function.
 # -----------------------------------------------------------------------------
 def broken_6(n):
